@@ -1,2 +1,2 @@
-# checklist
-app - vue.js
+# Checklist
+aplicação feita em vue.js - vue.js
